@@ -1,2 +1,2 @@
 # Consumer-Behavior-Analysis
-Representations of consumer behavior patterns
+Spotting consumer behavior patterns
